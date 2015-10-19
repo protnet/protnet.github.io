@@ -5,7 +5,7 @@
 [Επικοινωνία](contact.md)
 - - - -
 [Βοήθεια για το site](help.md)
-[gimmick:theme](cerulian)
+[gimmick:theme](cerulean)
 
 
 
